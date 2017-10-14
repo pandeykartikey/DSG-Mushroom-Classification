@@ -1,0 +1,26 @@
+Problem Statement
+
+Tof gilled mushrooms in the Aghe dataset includes descriptions of hypothetical samples corresponding to 23 species aricus and Lepiota Family Mushroom drawn from The Audubon Society Field Guide to North American Mushrooms (1981). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one. The aim of this problem is to identify the poisonous and edible class. 
+
+The evaluation matrix is (number of correct predictions/ total number of predictions).
+
+What we are looking for -
+Original and creative approach
+Data Preprocessing
+Visualizations and Inferences
+Feature Engineering
+Well commented code
+Proper readme
+
+Note-
+You can code in any language
+Only github links will be entertained
+Mail your github link to iitrdsg@gmail.com
+Readme is mandatory
+Make proper assumptions wherever required and mention them in code
+
+
+
+Top submissions get direct entry in the interview stage of DSG Recruitments.
+
+
